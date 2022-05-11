@@ -5,7 +5,9 @@ In the Data folder it contains all the data provided to the group from Virginia 
 **Required installs before running the Code**
 
 pip install pandas
+
 pip install folium
+
 pip install geopy
 
 **FindingCoordinates.py**
